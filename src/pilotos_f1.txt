@@ -1,0 +1,3 @@
+Jose;Ferrari;20;
+Carlos;RedBull;1;
+Juan;MClaren;222;
